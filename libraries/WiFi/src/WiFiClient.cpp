@@ -510,7 +510,7 @@ uint8_t WiFiClient::connected()
                 break;
             default:
                 log_i("Unexpected: RES: %d, ERR: %d", res, errno);
-                _connected = true;
+                _connected = false;
                 break;
         }
     }
