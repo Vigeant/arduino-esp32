@@ -44,7 +44,7 @@
                     },
 {"name": "Update/examples/HTTP_Client_AES_OTA_Update",
                     "sizes": [{
-                            "flash_bytes": 946061,
+                            "flash_bytes": 946053,
                             "flash_percentage": 30,
                             "ram_bytes": 42556,
                             "ram_percentage": 12
@@ -84,7 +84,7 @@
                     },
 {"name": "WebServer/examples/FSBrowser",
                     "sizes": [{
-                            "flash_bytes": 975645,
+                            "flash_bytes": 975653,
                             "flash_percentage": 31,
                             "ram_bytes": 44356,
                             "ram_percentage": 13
@@ -137,7 +137,7 @@
                     },
 {"name": "WebServer/examples/HttpAdvancedAuth",
                     "sizes": [{
-                            "flash_bytes": 941738,
+                            "flash_bytes": 941746,
                             "flash_percentage": 29,
                             "ram_bytes": 42600,
                             "ram_percentage": 13
